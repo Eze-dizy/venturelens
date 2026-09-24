@@ -1,0 +1,45 @@
+# Sample Pitch Deck for NovaFlow
+
+## Company Overview
+**Company Name:** NovaFlow  
+**Industry:** B2B SaaS  
+**Stage:** Series A  
+**Geography:** India  
+
+## Problem Statement
+Many businesses struggle with inefficient workflows and lack of integration between various software tools, leading to wasted time and resources.
+
+## Solution
+NovaFlow offers a comprehensive workflow automation platform that integrates with existing tools, streamlining processes and improving productivity.
+
+## Value Proposition
+- **Increased Efficiency:** Automate repetitive tasks and reduce manual errors.
+- **Seamless Integration:** Connect with popular software tools to create a unified workflow.
+- **User-Friendly Interface:** Easy to use with minimal training required.
+
+## Target Market
+- **Primary:** Small to medium-sized enterprises (SMEs) in India.
+- **Secondary:** Large enterprises looking for workflow optimization.
+
+## Business Model
+- **Revenue Model:** Subscription-based with tiered pricing.
+- **Pricing:** Starting at ₹10,000 per month for basic features.
+
+## Traction
+- **Current Customers:** 150 paying customers.
+- **Growth Rate:** 30% month-over-month growth in user acquisition.
+
+## Financial Projections
+- **FY2025 Revenue:** Projected at ₹8.4 crore.
+- **Gross Margin:** Expected to be 60%.
+
+## Team
+- **Founders:** Experienced professionals with backgrounds in software development and business management.
+- **Key Hires:** Plans to hire a sales team to drive customer acquisition.
+
+## Competitive Advantage
+- Unique integration capabilities with a wide range of tools.
+- Strong customer support and onboarding process.
+
+## Call to Action
+Join us in revolutionizing the way businesses operate. Invest in NovaFlow and be part of the future of workflow automation!

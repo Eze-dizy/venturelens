@@ -1,0 +1,29 @@
+Company: NovaFlow
+Industry: B2B SaaS
+Stage: Series A
+Geography: India
+
+Financial Projections:
+- FY2023 Revenue: ₹2 crore
+- FY2024 Revenue: ₹5 crore
+- FY2025 Revenue: ₹10 crore
+
+Key Metrics:
+- Gross Margin: 60%
+- EBITDA Margin: 25%
+- Customer Acquisition Cost (CAC): ₹50,000
+- Lifetime Value (LTV): ₹2 lakh
+- Monthly Recurring Revenue (MRR): ₹8 lakh
+
+Funding Requirements:
+- Total Funding Needed: ₹5 crore
+- Use of Funds:
+  - Product Development: 40%
+  - Marketing: 30%
+  - Operations: 20%
+  - Contingency: 10%
+
+Assumptions:
+- 20% month-over-month growth in customer acquisition.
+- Retention rate of 85% for existing customers.
+- Average revenue per user (ARPU) of ₹10,000 per month.

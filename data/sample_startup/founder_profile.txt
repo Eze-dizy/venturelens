@@ -1,0 +1,20 @@
+Founder Profile
+
+Name: John Doe
+
+Background: John has over 10 years of experience in the technology sector, having worked with leading companies in software development and product management.
+
+Education: 
+- Bachelor of Science in Computer Science from XYZ University
+- Master of Business Administration from ABC Business School
+
+Previous Ventures: 
+- Co-founder of Tech Innovations, a successful startup that developed a project management tool used by over 500 companies.
+- Led product development at Software Solutions Inc., where he managed a team of 15 engineers.
+
+Skills:
+- Expertise in software development and agile methodologies
+- Strong leadership and team management skills
+- Proven track record in scaling startups and driving growth
+
+Vision: John aims to revolutionize the way businesses manage their operations through innovative software solutions that enhance productivity and efficiency.
